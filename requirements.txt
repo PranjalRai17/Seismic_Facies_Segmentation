@@ -6,3 +6,5 @@ seaborn
 torch
 tifffile
 opencv-python
+streamlit
+torchvision
